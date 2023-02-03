@@ -10,7 +10,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-   2023/index
+   first/index
    about
 
 Indices and tables
