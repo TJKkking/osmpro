@@ -5,6 +5,6 @@
     :numbered:
     :maxdepth: 2
 
-    one/contents.rst
+    one/contents.md
     two/contents.rst
     three/contents.rst
