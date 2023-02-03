@@ -15,8 +15,7 @@ release = 'v1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'recommonmark',
-    'sphinx_markdown_tables'
+    'recommonmark'
 ]
 
 templates_path = ['_templates']
